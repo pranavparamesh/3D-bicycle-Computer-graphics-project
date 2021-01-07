@@ -18,4 +18,4 @@ Arrow keys to move the camera.
 
 Mouse to move the scene.
 
-
+![2](https://user-images.githubusercontent.com/39325659/103926475-fb3f8b80-513e-11eb-8df2-9c7406f3ffd1.JPG)
